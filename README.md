@@ -1,3 +1,4 @@
+[![img](https://img.shields.io/badge/Lifecycle-Stable-97ca00)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 # Docker images for Hyperledger Aries Cloud Agent
@@ -43,6 +44,11 @@ By default, the tag for a new image will be composed by `$base_image_tag`, follo
 | py36-1.14-1_0.4.5 | python         | von-image:py36-1.14-1 | 0.4.5            |
 | py36-1.14-1_0.5.0 | python         | von-image:py36-1.14-1 | 0.5.0            |
 | py36-1.14-1_0.5.1 | python         | von-image:py36-1.14-1 | 0.5.1            |
+| py36-1.14-1_0.5.2 | python         | von-image:py36-1.15-0 | 0.5.2            |
+| py36-1.14-1_0.5.3 | python         | von-image:py36-1.15-0 | 0.5.3            |
+| py36-1.14-1_0.5.4 | python         | von-image:py36-1.15-0 | 0.5.4            |
+| py36-1.14-1_0.5.5 | python         | von-image:py36-1.15-0 | 0.5.5            |
+| py36-1.14-1_0.5.6 | python         | von-image:py36-1.15-0 | 0.5.6            |
 
 # Building the image locally
 

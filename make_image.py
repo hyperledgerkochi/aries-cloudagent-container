@@ -92,6 +92,36 @@ VERSIONS = {
             "args": {
                 "base_image": "bcgovimages/von-image:py36-1.14-1"
             },
+        },
+        {
+            "version": "0.5.2",
+            "args": {
+                "base_image": "bcgovimages/von-image:py36-1.15-0"
+            },
+        },
+        {
+            "version": "0.5.3",
+            "args": {
+                "base_image": "bcgovimages/von-image:py36-1.15-0"
+            },
+        },
+        {
+            "version": "0.5.4",
+            "args": {
+                "base_image": "bcgovimages/von-image:py36-1.15-0"
+            },
+        },
+        {
+            "version": "0.5.5",
+            "args": {
+                "base_image": "bcgovimages/von-image:py36-1.15-0"
+            },
+        },
+        {
+            "version": "0.5.6",
+            "args": {
+                "base_image": "bcgovimages/von-image:py36-1.15-0"
+            },
         }
     ]
 }
